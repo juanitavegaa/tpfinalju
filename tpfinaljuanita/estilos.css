@@ -1,0 +1,10 @@
+.productos {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+    h2 {
+        display: flex;
+        justify-content: center;
+    }
